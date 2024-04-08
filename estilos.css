@@ -1,6 +1,6 @@
 body {
     background-color: #000000;
-    overflow-x: hidden;
+
 
 }
 
@@ -108,12 +108,6 @@ p {
     padding: 45px;
     margin-top: 15px;
 }
-
-
-
-
-
-
 
 ul {
     display: flex;
