@@ -1,6 +1,7 @@
 body {
     background-color: #000000;
-
+    overflow-x: hidden;
+    margin: 0;
 
 }
 
@@ -189,4 +190,8 @@ ul {
 .bgnav {
 
     background-color: #000000;
+}
+
+@media screen and (max-width: 768px) {
+
 }
