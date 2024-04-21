@@ -14,3 +14,11 @@
     color: white;
     font-size: clamp(0.5em, 1vw, 2em);
 }
+
+
+@media screen and (min-width: 600px) {
+    .imgslider {
+        width: 800px;
+        height: 400px;
+        }
+  }
